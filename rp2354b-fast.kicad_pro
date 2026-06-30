@@ -215,7 +215,9 @@
         0.15,
         0.25,
         0.35,
-        0.5
+        0.5,
+        1.5,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -671,7 +673,7 @@
         "uuid": "beb1ad91-9446-4312-87f0-5238465df71d"
       }
     ],
-    "used_designators": "C28-29,#PWR32-35,U4",
+    "used_designators": "U7-8,R12-14,D4,C30-38,#PWR36-45,J4-5",
     "variants": []
   },
   "sheets": [
@@ -681,7 +683,11 @@
     ],
     [
       "b7a4eeb7-09e6-4be9-b9ef-7a9a39ffdb99",
-      "power_mng"
+      "power_mng_3v3"
+    ],
+    [
+      "0c7a7e89-d1ec-4229-95b4-103dc8c8523c",
+      "HV_16v8"
     ]
   ],
   "text_variables": {},
