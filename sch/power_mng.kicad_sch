@@ -5499,7 +5499,6 @@
 	(symbol
 		(lib_id "Device:C_Small")
 		(at 99.06 128.27 0)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5509,7 +5508,7 @@
 		(dnp no)
 		(uuid "5289f9bd-01ad-498d-beda-f8848311ff37")
 		(property "Reference" "C6"
-			(at 101.6 129.5338 0)
+			(at 101.6 127.0062 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5520,7 +5519,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 101.6 126.9938 0)
+			(at 101.6 129.5462 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
