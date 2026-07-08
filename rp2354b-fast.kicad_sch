@@ -12558,7 +12558,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "WS-CORE-SX1262:CORE-1262"
 			(at 109.22 163.83 0)
 			(hide yes)
 			(show_name no)
