@@ -7185,7 +7185,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10pF"
+		(property "Value" "TBA"
 			(at 201.93 115.5762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12190,7 +12190,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10pF"
+		(property "Value" "TBA"
 			(at 175.26 115.5762 0)
 			(show_name no)
 			(do_not_autoplace no)
