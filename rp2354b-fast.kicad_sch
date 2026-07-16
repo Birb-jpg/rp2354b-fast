@@ -7853,7 +7853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
 			(at 193.04 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7998,7 +7998,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at 114.3 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8639,7 +8639,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "4.7kR"
 			(at 198.12 64.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10217,7 +10217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
 			(at 193.04 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10762,7 +10762,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at 107.95 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12117,7 +12117,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at 125.73 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12375,7 +12375,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
 			(at 175.26 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -12529,7 +12529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
 			(at 175.26 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13437,7 +13437,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at 119.38 64.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13912,7 +13912,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at 116.84 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15618,7 +15618,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at 97.79 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
