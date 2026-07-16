@@ -3254,7 +3254,7 @@
 				)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at -2.9 0.1 90)
 			(layer "F.Fab")
 			(uuid "0e4707d8-5931-4375-a5e8-2d07da54e9dd")
@@ -3886,7 +3886,7 @@
 				)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at -2.8 0 90)
 			(layer "F.Fab")
 			(uuid "067ce0d5-6d52-43c4-8cf7-bde19b60927c")
@@ -11403,7 +11403,7 @@
 				)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "4.7kR"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "6768d8f0-5bcf-4091-ba11-fa5047b69d64")
@@ -13392,7 +13392,7 @@
 				)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at -2.8 0.1 90)
 			(layer "F.Fab")
 			(uuid "938f4763-9a87-4eb6-b82c-700e356100e6")
@@ -14325,7 +14325,7 @@
 				)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at -2.81 -0.01 90)
 			(layer "F.Fab")
 			(uuid "2181d876-9dde-4694-b640-523c4545ae20")
@@ -17282,7 +17282,7 @@
 				)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at -2.71 0 90)
 			(layer "F.Fab")
 			(uuid "43305f3b-1dae-4987-9973-3c7a8d3d9c1b")
@@ -21130,7 +21130,7 @@
 				)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "47kR"
 			(at -2.8 0 90)
 			(layer "F.Fab")
 			(uuid "0bfc4a0f-e71d-44a4-bff5-ec2978f6e8a4")
@@ -23375,7 +23375,7 @@
 	)
 	(gr_poly
 		(pts
-			(xy 124.2 100.75) (xy 118.1 100.8) (xy 118.1 96.3) (xy 124.2 96.3)
+			(xy 124.2 100.87459) (xy 118.1 100.92459) (xy 118.1 96.3) (xy 124.2 96.3)
 		)
 		(stroke
 			(width 0.2)
